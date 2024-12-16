@@ -8,6 +8,8 @@
 ![image](https://github.com/user-attachments/assets/ac89f223-667b-47cc-8c1e-d5fef55a3278)
 5.Remove element
 ![image](https://github.com/user-attachments/assets/6d3b5b42-d9ad-4e11-9e8f-793f93a6c1b4)
+6.Search the position
+![image](https://github.com/user-attachments/assets/f28f6446-4c7c-48ee-9ade-74bf49c15156)
 
 
 
