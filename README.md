@@ -6,6 +6,8 @@
 ![image](https://github.com/user-attachments/assets/fb82b2c9-20be-417a-ad9f-845356ed2061)
 4.Remove duplicte
 ![image](https://github.com/user-attachments/assets/ac89f223-667b-47cc-8c1e-d5fef55a3278)
+5.Remove element
+![image](https://github.com/user-attachments/assets/6d3b5b42-d9ad-4e11-9e8f-793f93a6c1b4)
 
 
 
