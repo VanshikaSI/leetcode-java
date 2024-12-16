@@ -1,0 +1,23 @@
+  class Solution {
+    public int removeDuplicates(int[] nums) {
+        int k=1;
+        if (nums.length == 0) {
+            return 0;
+        }
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]!=nums[i-1]){
+                nums[k]=nums[i];
+                k++;
+            }
+        }
+        return k;
+        
+    }
+}
+/*we need to use two pointer aprroch
+The two pointers work together:
+
+1.i scans the array to identify unique elements.
+2.`k updates the array in-place with the unique elements by copying only when a new unique value is found.
+
+*/
