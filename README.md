@@ -10,6 +10,9 @@
 ![image](https://github.com/user-attachments/assets/6d3b5b42-d9ad-4e11-9e8f-793f93a6c1b4)
 6.Search the position
 ![image](https://github.com/user-attachments/assets/f28f6446-4c7c-48ee-9ade-74bf49c15156)
+7.Find the Index of the First Occurrence in a String
+![image](https://github.com/user-attachments/assets/7a57f4cf-d48d-4021-9b86-903188336031)
+
 
 
 
