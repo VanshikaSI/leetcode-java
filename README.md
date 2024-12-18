@@ -12,6 +12,9 @@
 ![image](https://github.com/user-attachments/assets/f28f6446-4c7c-48ee-9ade-74bf49c15156)
 7.Find the Index of the First Occurrence in a String
 ![image](https://github.com/user-attachments/assets/7a57f4cf-d48d-4021-9b86-903188336031)
+8.Length of last word in string
+![image](https://github.com/user-attachments/assets/13689914-4903-4af7-813a-74d56f241f12)
+
 
 
 
