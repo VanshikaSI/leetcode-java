@@ -14,6 +14,9 @@
 ![image](https://github.com/user-attachments/assets/7a57f4cf-d48d-4021-9b86-903188336031)
 8.Length of last word in string
 ![image](https://github.com/user-attachments/assets/13689914-4903-4af7-813a-74d56f241f12)
+9.Palindrome Number
+![image](https://github.com/user-attachments/assets/3540d4ab-ab47-4da8-bc4c-2225aa509f43)
+
 
 
 
